@@ -26,3 +26,15 @@ The following packages were added:
   com.unity.ads@2.0.8
   com.unity.analytics@3.2.2
   com.unity.purchasing@2.0.3
+
+=== Thu Jan 30 09:41:13 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@2.1.7
+  com.unity.xr.legacyinputhelpers@2.0.2
+The following packages were updated:
+  com.unity.analytics from version 3.2.2 to 3.3.2
+  com.unity.purchasing from version 2.0.3 to 2.0.6
